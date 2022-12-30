@@ -1,5 +1,5 @@
 scoreboard:
-  title: '%core_fading_FrozzMC_55FFFF_FFFFFF% &8(&7%server_online%&8)'
+  title: '%core_fading_MineLuna_55FFFF_FFFFFF% &8(&7%server_online%&8)'
   lines: |-
       &a
       &e ● &f%player_name%
@@ -9,7 +9,7 @@ scoreboard:
       &a
       &f Lobby: &a#%cloudnet_service_id%
       &a
-      &eplay.frozzmc.us
+      &emc.mineluna.es
       
 npcs:
   skywars:
@@ -34,15 +34,15 @@ npcs:
 tab:
   header: |-
     &7
-    &b&lFrozz&f&lMC Network&7
+    &b&lMineLuna Network&7
     play.frozzmc.us
     &7
-    &7Welcome to &b&lFrozz&7!
+    &7Welcome to &b&lMineLuna&7!
     &7
   footer: |-
     
-    &9&lDiscord:&f dc.frozzmc.us
-    &a&lShop:&f store.frozzmc.us
-    &b&lTwitter:&f @frozzmcus
+    &9&lDiscord:&f dc.mineluna.us
+    &a&lShop:&f store.mineluna.us
+    &b&lTwitter:&f @mineluna
     
     &7Play with &f%bungee_total% &7more players in our gamemodes.
