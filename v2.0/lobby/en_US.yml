@@ -1,0 +1,48 @@
+scoreboard:
+  title: '%core_fading_FrozzMC_55FFFF_FFFFFF% &8(&7%server_online%&8)'
+  lines: |-
+      &a
+      &e ● &f%player_name%
+      &a
+      &f Rank: %luckperms_primary_group_name%
+      &f Ping: &e%player_ping%
+      &a
+      &f Lobby: &a#%cloudnet_service_id%
+      &a
+      &eplay.frozzmc.us
+      
+npcs:
+  skywars:
+    line1: '&b&lSkyWars'
+    line2: '&e0 &7playing'
+  bedwars:
+    line1: '&b&lBedWars'
+    line2: '&e0 &7playing'
+  thebridge:
+    line1: '&b&lTheBridge'
+    line2: '&e0 &7playing'
+  practice:
+    line1: '&b&lPractice'
+    line2: '&e0 &7playing'
+  creative:
+    line1: '&b&lCreative'
+    line2: '&e0 &7playing'
+  survival-custom:
+    line1: '&b&lSurvival Custom'
+    line2: '&e0 &7playing'         
+
+tab:
+  header: |-
+    &7
+    &b&lFrozz&f&lMC Network&7
+    play.frozzmc.us
+    &7
+    &7Welcome to &b&lFrozz&7!
+    &7
+  footer: |-
+    
+    &9&lDiscord:&f dc.frozzmc.us
+    &a&lShop:&f store.frozzmc.us
+    &b&lTwitter:&f @frozzmcus
+    
+    &7Play with &f%bungee_total% &7more players in our gamemodes.

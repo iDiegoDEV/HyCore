@@ -1,0 +1,13 @@
+vault:
+  normal:
+    line1: '&f&lMagicBox'
+    line2: '&cUnder development!'
+
+menus:
+  Mystery-Vault-Menu:
+    title: 'MagicBox'
+    items:
+      error:
+        name: '&cError!'
+        lore: |-
+          &cYou do not have any &fMagic Boxes&c!

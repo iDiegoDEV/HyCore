@@ -1,0 +1,42 @@
+scoreboard:
+  title: '%core_fading_Prototype_55FFFF_FFFFFF%'
+  lines: |-
+      &a
+      &e ● &f%player_name%
+      &a
+      &f Rank: %luckperms_primary_group_name%
+      &f Ping: &e%player_ping%
+      &a
+      &f Jugando: &a%pb_pc_prototype%
+      &a
+      &eplay.frozzmc.us
+      
+npcs:
+  csgo:
+    line1: '&b&lCSGO'
+    line2: '&e%bungee_csgo% &7playing'   
+  thelab:
+    line1: '&b&lTheLab'
+    line2: '&e%pb_pc_thelab% &7playing'
+  prox1:
+    line1: '&c&lComing soon...'
+    line2: '%clocks_prox1_time%'
+  prox2:
+    line1: '&c&lComing soon...'
+    line2: '%clocks_prox2_time%'   
+
+tab:
+  header: |-
+    &7
+    &b&lFrozz&f&lMC Network&7
+    play.frozzmc.us
+    &7
+    &b&lPrototype
+    &7
+  footer: |-
+    
+    &9&lDiscord:&f dc.frozzmc.us
+    &a&lShop:&f store.frozzmc.us
+    &b&lTwitter:&f @frozzmcus
+    
+    &7Play with &f%pb_pc_prototype% &7in this prototype games.
