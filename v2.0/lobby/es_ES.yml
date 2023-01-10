@@ -9,7 +9,7 @@ scoreboard:
       §fRegalos: §e0/24
       §f
       §fVestibulo: §e#1
-      §fEn linia: &e%bungee_total% jug.
+      §fEn linia: §e%bungee_total% jug.
       §f
       §eplay.hypexmc.net
       
@@ -36,7 +36,7 @@ npcs:
 tab:
   header: |-
     §7
-    §E&lHYPEXMC §f§lNETWORK§7
+    §E§lHYPEXMC §f§lNETWORK§7
     §7play.hypexmc.net
     §7
     §7¡Bienvenido a §e§lHYPEXMC§7!
