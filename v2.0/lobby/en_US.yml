@@ -9,7 +9,7 @@ scoreboard:
       §fgift: §e0/24
       §f
       §fLobby: §e#1
-      §fOnline: &e%bungee_total% players.
+      §fOnline: §e%bungee_total% players.
       §f
       §eplay.hypexmc.net
       
