@@ -1,48 +1,50 @@
 scoreboard:
-  title: '%core_fading_MineLuna_55FFFF_FFFFFF% &8(&7%server_online%&8)'
+  title: '%core_fading_HYPEXMC_FFC000_FFFFFF% &8(&7%server_online%&8)'
   lines: |-
+      &7
+      &fRango: &7¡Adquierelo!
+      &fNivel: &e1 ✮
       &a
-      &e ● &f%player_name%
-      &a
-      &f Rango: %luckperms_primary_group_name%
-      &f Ping: &e%player_ping%
-      &a
-      &f Lobby: &a#%cloudnet_service_id%
-      &a
-      &emc.mineluna.us
+      &fMonedas: &e100 ⛁
+      &fRegalos: &e0/20
+      &f
+      &fVestibulo: &b#1
+      &fEn linea: &b%bungee_total% jug.
+      &f
+      &eplay.hypexmc.net
       
 npcs:
   skywars:
-    line1: '&b&lSkyWars'
+    line1: '&6&lSkyWars'
     line2: '&e%bungee_SkyWars-1% &7jugando'
   bedwars:
-    line1: '&b&lBedWars'
+    line1: '&6&lBedWars'
     line2: '&e%bungee_BedWars-1% &7jugando'
   thebridge:
-    line1: '&b&lTheBridge'
+    line1: '&6&lTheBridge'
     line2: '&e%bungee_TheBridge-1% &7jugando'
   practice:
-    line1: '&b&lPractice'
+    line1: '&6&lPractice'
     line2: '&e%bungee_Practice% &7jugando'
   creative:
-    line1: '&b&lCreativo'
+    line1: '&6&lCreativo'
     line2: '&e%bungee_Creative% &7jugando'
   survival-custom:
-    line1: '&b&lSurvival Custom'
+    line1: '&6&lSurvival Custom'
     line2: '&e%bungee_SurviCustom% &7jugando'      
 
 tab:
   header: |-
     &7
-    &b&lMineluna Network&7
-    play.mineluna.net
+    &6&lHYPEXMC &f&lNETWORK&7
+    play.hypexmc.net
     &7
-    &7¡Bienvenido a &b&lmineluna&7!
+    &7¡Bienvenido a &6&lHYPEXMC&7!
     &7
   footer: |-
     
-    &9&lDiscord:&f dc.mineluna.us
-    &a&lTienda:&f store.mineluna.us
-    &b&lTwitter:&f @mineluna
+    &9&lDiscord:&f dc.hypexmc.net
+    &a&lTienda:&f store.hypexmc.net
+    &b&lTwitter:&f @HypexMCNW
     
     &7Juega con &f%bungee_total% &7jugadores más en nuestras modalidades.
