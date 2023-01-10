@@ -1,17 +1,15 @@
 scoreboard:
-  title: '%core_fading_HYPEXMC_FFC000_FFFFFF% &8(&7%server_online%&8)'
+  title: '%core_fading_FrozzMC_55FFFF_FFFFFF% &8(&7%server_online%&8)'
   lines: |-
-      - '&7'
-      - '&fRango: &7¡Adquierelo!'
-      - '&fNivel: &e1 ✮'
-      - '&a'
-      - '&fMonedas: &e100 ⛁'
-      - '&fRegalos: &e0/20'
-      - '&f'
-      - '&fVestibulo: &b#1'
-      - '&fEn linea: &b%bungee_total% jug.'
-      - '&f'
-      - '&eplay.hypexmc.net'
+      &a
+      &e ● &f%player_name%
+      &a
+      &f Rango: %luckperms_primary_group_name%
+      &f Ping: &e%player_ping%
+      &a
+      &f Lobby: &a#%cloudnet_service_id%
+      &a
+      &eplay.frozzmc.us
       
 npcs:
   skywars:
