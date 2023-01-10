@@ -1,15 +1,17 @@
 scoreboard:
-  title: '%core_fading_HYPEXMC_FFC000_FFFFFF% &8(&7%server_online%&8)'
+  title: '§e§lHYPEXMC §8(§7%server_online%§8)'
   lines: |-
-      &a
-      &e ● &f%player_name%
-      &a
-      &f Rango: %luckperms_primary_group_name%
-      &f Ping: &e%player_ping%
-      &a
-      &f Lobby: &a#%cloudnet_service_id%
-      &a
-      &eplay.frozzmc.us
+      §a
+      §fRank: §7!Adquierelo!
+      §fLevel: §e§1 ✯
+      §f
+      §fMoney: §e50 ⛁
+      §fgift: §e0/24
+      §f
+      §fLobby: §e#1
+      §fOnline: &e%bungee_total% players.
+      §f
+      §eplay.hypexmc.net
       
 npcs:
   skywars:
@@ -33,16 +35,16 @@ npcs:
 
 tab:
   header: |-
-    &7
-    &6&lHYPEXMC &f&lNETWORK&7
-    play.hypexmc.net
-    &7
-    &7¡Welcome to &6&lHYPEXMC&7!
-    &7
+    §7
+    §e§lHYPEXMC §f§lNETWORK§7
+    §7play.hypexmc.net
+    §7
+    §7¡Welcome to §e§lHYPEXMC§7!
+    §7
   footer: |-
     
-    &9&lDiscord:&f dc.mineluna.us
-    &a&lShop:&f store.mineluna.us
-    &b&lTwitter:&f @mineluna
+    §9§lDiscord:§f dc.hypexmc.net
+    §a§lShop:§f store.hypexmc.net
+    §b§lTwitter:§f @HypexNW
     
-    &7Play with &f%bungee_total% &7more players in our gamemodes.
+    §7Play with §e%bungee_total% §7more players in our gamemodes.
