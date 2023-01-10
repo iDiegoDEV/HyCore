@@ -1,15 +1,15 @@
 scoreboard:
   title: '%core_fading_FrozzMC_55FFFF_FFFFFF% &8(&7%server_online%&8)'
   lines: |-
-      '&a'
-      '&e ● &f%player_name%'
-      '&a'
-      '&f Rango: %luckperms_primary_group_name%'
-      '&f Ping: &e%player_ping%'
-      '&a'
-      '&f Lobby: &a#%cloudnet_service_id%'
-      '&a'
-      '&eplay.frozzmc.us'
+      &a
+      &e ● &f%player_name%
+      &a
+      &f Rango: %luckperms_primary_group_name%
+      &f Ping: &e%player_ping%
+      &a
+      &f Lobby: &a#%cloudnet_service_id%
+      &a
+      &eplay.frozzmc.us
       
 npcs:
   skywars:
