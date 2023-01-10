@@ -1,17 +1,17 @@
 scoreboard:
-  title: '%core_fading_FrozzMC_55FFFF_FFFFFF% §8(&7%server_online%&8)'
+  title: '§e§lHYPEXMC §8(§7%server_online%§8)'
   lines: |-
       §a
       §fRango: §7!Adquierelo!
-      §fNivel: §e§1
+      §fNivel: §e§1 ✯
       §f
-      §fMonedas: §e50
+      §fMonedas: §e50 ⛁
       §fRegalos: §e0/24
       §f
       §fVestibulo: §e#1
-      §fEn linia: &e%bungee_online%
+      §fEn linia: &e%bungee_total% jug.
       §f
-      §eplay.frozzmc.us
+      §eplay.hypexmc.net
       
 npcs:
   skywars:
@@ -35,16 +35,16 @@ npcs:
 
 tab:
   header: |-
-    &7
-    &b&lFrozz&f&lMC Network&7
-    play.frozzmc.us
-    &7
-    &7¡Bienvenido a &b&lFrozz&7!
-    &7
+    §7
+    §E&lHYPEXMC §f§lNETWORK§7
+    §7play.hypexmc.net
+    §7
+    §7¡Bienvenido a §e§lHYPEXMC§7!
+    §7
   footer: |-
     
-    &9&lDiscord:&f dc.frozzmc.us
-    &a&lTienda:&f store.frozzmc.us
-    &b&lTwitter:&f @frozzmcus
+    §9§lDiscord:§f dc.hypexmc.net
+    §a§lTienda:§f store.hypexmc.net
+    §b§lTwitter:§f @hypexNW
     
-    &7Juega con &f%bungee_total% &7jugadores más en nuestras modalidades.
+    §7Juega con §e%bungee_total% §7jugadores más en nuestras modalidades.
