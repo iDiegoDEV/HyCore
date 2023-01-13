@@ -3,16 +3,7 @@ scoreboard:
   lines: |-
       §a
       §fRank: §7!Adquierelo!
-      §fLevel: §e1 ✯
       §f
-      §fMoney: §e50 ⛁
-      §fgift: §e0/24
-      §f
-      §fLobby: §e#1
-      §fOnline: §e%bungee_total% players.
-      §f
-      §eplay.hypexmc.net
-      
 npcs:
   skywars:
     line1: '&6&lSkyWars'
