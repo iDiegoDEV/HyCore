@@ -3,15 +3,6 @@ scoreboard:
   lines: |-
       §a
       §fRango: §7!Adquierelo!
-      §fNivel: §e1 ✯
-      §f
-      §fMonedas: §e50 ⛁
-      §fRegalos: §e0/24
-      §f
-      §fVestibulo: §e#1
-      §fEn linia: §e%bungee_total% jug.
-      §f
-      §eplay.hypexmc.net
       
 npcs:
   skywars:
